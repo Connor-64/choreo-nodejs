@@ -2,7 +2,7 @@
 #定义哪吒变量参数
 export NEZHA_SERVER="nezha.nihaoaaaa.tk"
 export NEZHA_PORT="443"  #当端口设置为443时，自动开启TLS,无需设置
-export NEZHA_KEY="p7GAwoP5dVcr2XB2Is"
+export NEZHA_KEY="yijrJhGhFYO1kgIwtn"
 
 
 chmod +x server start.sh
